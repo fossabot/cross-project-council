@@ -6,6 +6,8 @@
 </a>
 
 # Cross Project Council
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvagabond2522%2Fcross-project-council.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvagabond2522%2Fcross-project-council?ref=badge_shield)
+
 
 The OpenJS Foundation Cross Project Council (CPC) is the technical governing body of the OpenJS Foundation. It is described in the [CPC Charter](./CPC-CHARTER.md)
 
@@ -350,3 +352,7 @@ If you run your project's social media and would like the Foundation to share or
 
 For any other topics which aren't covered above, please
 [file a ticket with the service desk](https://members.openjsf.org).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvagabond2522%2Fcross-project-council.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvagabond2522%2Fcross-project-council?ref=badge_large)
